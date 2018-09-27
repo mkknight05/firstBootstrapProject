@@ -1,0 +1,23 @@
+ .jumbotron  {
+    background-color: rgba(183, 0, 255, 0.966);
+ }
+
+
+  #first{
+      color: hsl(0, 88%, 51%);
+  } 
+  
+.img{ 
+    width: auto;
+    height: auto;
+}
+h1 {
+    font-size: 575%;
+    color: yellow;
+    
+
+}
+h2 {
+    font-size: 400%;
+color: royalblue;
+}
